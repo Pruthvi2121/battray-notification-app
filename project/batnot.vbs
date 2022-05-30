@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\project\batnot.bat", 0 , True
