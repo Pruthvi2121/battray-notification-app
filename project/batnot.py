@@ -13,7 +13,7 @@ while True:
 
     if pulg:
         
-        if percent>60:
+        if percent>90:
             notification.title="Battery is above 90 % plug off the charger"
             notification.message="To avoid overcharging , Make sure to plug off the charger\nIt will save your battery life "
             notification.send()
